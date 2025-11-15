@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**sachin712122/sachin712122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sachin Reddy**, a student and an aspiring developer who loves turning ideas into code.
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 I'm a **student** passionate about becoming a skilled developer.  
+- 🧠 I really enjoy learning **Python** and **C++** — my favourite programming languages.  
+- 💻 I love building small projects, solving problems, and improving my coding skills.  
+- 🌱 Currently learning more about programming logic, development, and real-world coding.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals  
+- Become a strong Python & C++ developer  
+- Build useful and creative projects  
+
+### ⚡ Fun fact  
+- One bug can ruin my day, but fixing it makes me feel like a hero 😄
